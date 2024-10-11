@@ -4,4 +4,4 @@
 
 <input type="color" bind:value={color} />
 
-<div style="background-color: {color}">Hello world!</div>
+<!-- <div style="background-color: {color}">Hello world!</div> -->
